@@ -1,0 +1,66 @@
+/* 
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+*/
+
+.header,
+footer {
+  max-width: 750px;
+  margin-left: 30px;
+  background-color: rgb(238, 237, 236);
+}
+
+.header__nav,
+.header__tel {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 2rem;
+}
+
+.footer__nav {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1.6rem;
+}
+
+.section-exp__headline,
+.section-exp__list__item,
+.section-gallery__headline,
+.section-hobby__headline,
+.section-hobby__par
+   {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+}
+
+.section-exp__container {
+  width: 900px;
+  margin-top: 10px;
+  margin-left: 30px;
+  padding: 10px;
+  background-color: rgb(217, 250, 239);
+  border-radius: 15px;
+}
+
+.section-gallery__container {
+  width: 80%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  padding: 10px;
+  background-color: rgb(217, 237, 250);
+  border: 2px dashed black;
+}
+
+.section-gallery__image {
+  /* margin-left: 5px ; */
+  margin-right: 10px;
+
+}
+
+.section-hobby__container {
+  margin-top: 10px;
+  margin-left: 30px;
+  padding: 10px;
+  background-color: rgb(238, 217, 250);
+}
