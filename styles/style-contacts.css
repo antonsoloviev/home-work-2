@@ -10,6 +10,16 @@ footer {
   font-size: 2rem;
 }
 
+.section-contacts{
+  max-width: 750px;
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 2rem;
+
+}
+
 .footer__nav {
   font-family: 'Noto Sans', sans-serif;
   font-size: 1.6rem;
